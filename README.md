@@ -1,15 +1,7 @@
 # Juantonathan.github.io
-<html>
 
-<head>
 
-<title>Jonathan Chu<title>
 
-</head>
-
-body { 
-
-  background: LightGray}
 
 <img src="snackattack.jpg" alt="Me">
 
