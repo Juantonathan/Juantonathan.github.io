@@ -9,7 +9,7 @@
 
 body { 
 
-  background: LightGray
+  background: LightGray}
 
 <img src="snackattack.jpg" alt="Me">
 
